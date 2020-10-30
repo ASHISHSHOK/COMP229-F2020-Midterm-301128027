@@ -1,1 +1,4 @@
-# COMP229-F2020-Midterm-301128027
+
+#MidTerm Project - the Favourite Book List App
+
+Student: Ashish Shokeen
